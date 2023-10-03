@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tree_Shifter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tree_Shifter_jar</output-path>
+    <root id="archive" name="Tree_Shifter.jar">
+      <element id="module-output" name="Tree_Shifter.main" />
+    </root>
+  </artifact>
+</component>
