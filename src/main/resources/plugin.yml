@@ -1,0 +1,8 @@
+name: Tree_Shifter
+main: bredo.cmd.treeshifter.TreeShifter
+api-version: 1.20
+version: 1.3.1
+description: Tree Shifter redefines tree chopping in Minecraft with a climbable log retrieval twist.
+author: Bredosen
+load: POSTWORLD
+website: https://www.spigotmc.org/resources/%E2%9C%A8-treeshifter-1-0-%E2%9C%A8-unleash-the-timber-ascendancy-1-8-1-20-%E2%9C%A8.112800/

@@ -39,6 +39,7 @@ public final class ColorEncoder {
      * Removes color codes from a message.
      *
      * @param message The input message containing color codes.
+     *
      * @return The message without color codes.
      */
     private static String removeColor(final String message) {
@@ -49,6 +50,7 @@ public final class ColorEncoder {
      * Encodes color codes in the message and returns the formatted string.
      *
      * @param message The input message containing color codes.
+     *
      * @return The formatted message with color.
      */
     public static String encodeColor(final String message) {
